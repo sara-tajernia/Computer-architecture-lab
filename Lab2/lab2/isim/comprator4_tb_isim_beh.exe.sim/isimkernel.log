@@ -1,0 +1,28 @@
+Command line:
+   comprator4_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50518
+
+Tue Mar 16 03:38:04 2021
+
+
+ Elaboration Time: 0.140625 sec
+
+ Current Memory Usage: 5155.06 Meg
+
+ Total Signals          : 71
+ Total Nets             : 43
+ Total Signal Drivers   : 37
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 37
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 403
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 4683.2 Meg
+
+Tue Mar 16 03:59:45 2021
+
