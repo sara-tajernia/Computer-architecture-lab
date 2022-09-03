@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="lab2.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Decoder2x4.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Decoder2x4.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Decoder2x4.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Decoder2x4_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Decoder_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Decoder_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="EncoderD4x2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="EncoderD4x2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="EncoderD4x2.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Encoder_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Encoder_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX16x1.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX16x1.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX16x1.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX16x1_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX16x1_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX4X1_con.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX4X1_con.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX4X1_con.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX4X1_con_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX4X1_con_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX4x1.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MUX4x1.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MUX4x1.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX4x1_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MUX4x1_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comprator4_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comprator4_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="comprator4_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comprator4_tb_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comprator_1bit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comprator_1bit_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comprator_4bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="comprator_4bit.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="comprator_4bit.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1615845824" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1615845824">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1615853277" xil_pn:in_ck="-7851981819375062689" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1615853277">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Decoder2x4.vhd"/>
+      <outfile xil_pn:name="Decoder_tb.vhd"/>
+      <outfile xil_pn:name="EncoderD4x2.vhd"/>
+      <outfile xil_pn:name="Encoder_tb.vhd"/>
+      <outfile xil_pn:name="MUX16x1.vhd"/>
+      <outfile xil_pn:name="MUX16x1_tb.vhd"/>
+      <outfile xil_pn:name="MUX4X1_con.vhd"/>
+      <outfile xil_pn:name="MUX4X1_con_tb.vhd"/>
+      <outfile xil_pn:name="MUX4x1.vhd"/>
+      <outfile xil_pn:name="MUX4x1_tb.vhd"/>
+      <outfile xil_pn:name="bit_comp.vhd"/>
+      <outfile xil_pn:name="comprator4_tb.vhd"/>
+      <outfile xil_pn:name="comprator_1bit.vhd"/>
+      <outfile xil_pn:name="comprator_4bit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1615853277" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-6281114992251475488" xil_pn:start_ts="1615853277">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1615853277" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2213702769986649090" xil_pn:start_ts="1615853277">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1615774283" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5606103698816403325" xil_pn:start_ts="1615774283">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1615853277" xil_pn:in_ck="-7851981819375062689" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1615853277">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Decoder2x4.vhd"/>
+      <outfile xil_pn:name="Decoder_tb.vhd"/>
+      <outfile xil_pn:name="EncoderD4x2.vhd"/>
+      <outfile xil_pn:name="Encoder_tb.vhd"/>
+      <outfile xil_pn:name="MUX16x1.vhd"/>
+      <outfile xil_pn:name="MUX16x1_tb.vhd"/>
+      <outfile xil_pn:name="MUX4X1_con.vhd"/>
+      <outfile xil_pn:name="MUX4X1_con_tb.vhd"/>
+      <outfile xil_pn:name="MUX4x1.vhd"/>
+      <outfile xil_pn:name="MUX4x1_tb.vhd"/>
+      <outfile xil_pn:name="bit_comp.vhd"/>
+      <outfile xil_pn:name="comprator4_tb.vhd"/>
+      <outfile xil_pn:name="comprator_1bit.vhd"/>
+      <outfile xil_pn:name="comprator_4bit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1615853281" xil_pn:in_ck="-7851981819375062689" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="7490661339928467878" xil_pn:start_ts="1615853277">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="comprator4_tb_beh.prj"/>
+      <outfile xil_pn:name="comprator4_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1615853282" xil_pn:in_ck="2017944884585733029" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="286237244747799817" xil_pn:start_ts="1615853281">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="comprator4_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,2 @@
+vhdl isim_temp "bit_comp.vhd"
+vhdl isim_temp "comprator_1bit.vhd"

@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o S:/uni/4/Az memar/session 2/lab2/comprator4_tb_isim_beh.exe -prj S:/uni/4/Az memar/session 2/lab2/comprator4_tb_beh.prj work.comprator4_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "S:/uni/4/Az memar/session 2/lab2/bit_comp.vhd" into library work
+Parsing VHDL file "S:/uni/4/Az memar/session 2/lab2/comprator_4bit.vhd" into library work
+Parsing VHDL file "S:/uni/4/Az memar/session 2/lab2/comprator4_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity bit_comp [bit_comp_default]
+Compiling architecture behavioral of entity comprator_4bit [comprator_4bit_default]
+Compiling architecture behavior of entity comprator4_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable S:/uni/4/Az memar/session 2/lab2/comprator4_tb_isim_beh.exe
+Fuse Memory Usage: 30172 KB
+Fuse CPU Usage: 733 ms
