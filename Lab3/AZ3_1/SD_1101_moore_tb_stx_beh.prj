@@ -1,0 +1,2 @@
+vhdl isim_temp "SD_1101_moore.vhd"
+vhdl isim_temp "SD_1101_moore_tb.vhd"

@@ -1,0 +1,3 @@
+vhdl work "SD_1101_moore.vhd"
+vhdl work "SD_0101_moore.vhd"
+vhdl work "SD_both.vhd"
