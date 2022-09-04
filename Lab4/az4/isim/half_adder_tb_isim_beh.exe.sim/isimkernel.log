@@ -1,0 +1,28 @@
+Command line:
+   half_adder_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52513
+
+Tue Apr 27 09:28:48 2021
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5155.21 Meg
+
+ Total Signals          : 8
+ Total Nets             : 4
+ Total Signal Drivers   : 4
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 3
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 382
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5155.21 Meg
+
+Tue Apr 27 09:28:52 2021
+
