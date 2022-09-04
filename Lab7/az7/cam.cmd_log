@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "S:/uni/4/Az memar/session7/az7/cam.xst" -ofn "S:/uni/4/Az memar/session7/az7/cam.syr" 
+xst -intstyle ise -ifn "S:/uni/4/Az memar/session7/az7/cam.xst" -ofn "S:/uni/4/Az memar/session7/az7/cam.syr" 

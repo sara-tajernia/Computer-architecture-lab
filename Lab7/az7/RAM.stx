@@ -1,0 +1,72 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to S:/uni/4/Az memar/session7/az7/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.28 secs
+ 
+--> Parameter xsthdpdir set to S:/uni/4/Az memar/session7/az7/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.29 secs
+ 
+--> Reading design: RAM.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "S:\uni\4\Az memar\session7\az7\ram.vhd" into library work
+Parsing entity <RAM>.
+ERROR:HDLCompiler:535 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 38: Index constraint prefix std_logic should be an array type
+ERROR:HDLCompiler:854 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 32: Unit <ram> ignored due to previous errors.
+Parsing architecture <Behavioral> of entity <ram>.
+ERROR:HDLCompiler:374 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 42: Entity <ram> is not yet compiled.
+ERROR:HDLCompiler:24 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 43: "**" expects 2 arguments
+ERROR:HDLCompiler:806 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 50: Syntax error near "begin".
+ERROR:HDLCompiler:806 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 51: Syntax error near "0".
+ERROR:HDLCompiler:904 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 52: Near range ; prefix should denote an array type
+ERROR:HDLCompiler:617 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 52: Near range ; prefix should denote a scalar or array type
+ERROR:HDLCompiler:56 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 53: <i> is not a signal.
+ERROR:HDLCompiler:622 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 53: Near ram ; type conversion expression type cannot be determined uniquely
+ERROR:HDLCompiler:37 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 53: "i" cannot be used in this expression.
+ERROR:HDLCompiler:841 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 53: Expecting type ram for <i>.
+ERROR:HDLCompiler:69 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 57: <data_out> is not declared.
+ERROR:HDLCompiler:69 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 59: <conv_integer> is not declared.
+ERROR:HDLCompiler:622 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 59: Near ram ; type conversion expression type cannot be determined uniquely
+ERROR:HDLCompiler:56 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 59: <ram> is not a signal.
+ERROR:HDLCompiler:69 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 58: <write_enb> is not declared.
+ERROR:HDLCompiler:69 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 56: <read_enb> is not declared.
+ERROR:HDLCompiler:69 - "S:\uni\4\Az memar\session7\az7\ram.vhd" Line 55: <clk> is not declared.
+Sorry, too many errors..
+--> 
+
+Total memory usage is 4496016 kilobytes
+
+Number of errors   :   19 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
