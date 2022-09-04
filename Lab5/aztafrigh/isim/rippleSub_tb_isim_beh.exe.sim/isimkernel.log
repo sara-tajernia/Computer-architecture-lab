@@ -1,0 +1,28 @@
+Command line:
+   rippleSub_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58930
+
+Tue May 04 06:52:13 2021
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5155.1 Meg
+
+ Total Signals          : 75
+ Total Nets             : 29
+ Total Signal Drivers   : 23
+ Total Blocks           : 15
+ Total Primitive Blocks : 9
+ Total Processes        : 21
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 389
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5469.67 Meg
+
+Tue May 04 06:52:47 2021
+
