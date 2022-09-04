@@ -1,0 +1,4 @@
+vhdl work "HS.vhd"
+vhdl work "FS.vhd"
+vhdl work "ripple_sub.vhd"
+vhdl work "rippleSub_tb.vhd"

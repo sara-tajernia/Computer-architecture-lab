@@ -1,0 +1,4 @@
+vhdl isim_temp "HS.vhd"
+vhdl isim_temp "FS.vhd"
+vhdl isim_temp "ripple_sub.vhd"
+vhdl isim_temp "rippleSub_tb.vhd"

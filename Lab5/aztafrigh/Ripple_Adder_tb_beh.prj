@@ -1,0 +1,4 @@
+vhdl work "HA.vhd"
+vhdl work "FA.vhd"
+vhdl work "ripple4bit.vhd"
+vhdl work "Ripple_Adder_tb.vhd"
