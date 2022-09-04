@@ -1,0 +1,2 @@
+vhdl isim_temp "shift_reg.vhd"
+vhdl isim_temp "shiftReg_tb.vhd"

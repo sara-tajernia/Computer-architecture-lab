@@ -1,0 +1,2 @@
+vhdl isim_temp "seven_segment.vhd"
+vhdl isim_temp "seven_segment_tb.vhd"
