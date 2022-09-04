@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "S:/uni/4/Az memar/session4/az4/Tb_Carry_Look_Ahead_isim_beh.exe" -prj "S:/uni/4/Az memar/session4/az4/Tb_Carry_Look_Ahead_beh.prj" "work.Tb_Carry_Look_Ahead" 

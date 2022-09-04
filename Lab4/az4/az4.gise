@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="az4.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Carry_Look_Ahead_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="HA_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Tb_Carry_Look_Ahead_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Tb_Carry_Look_Ahead_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="Tb_Carry_Look_Ahead_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Tb_Ripple_Adder_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Tb_carry_select_adder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="fa_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="half_adder_tb.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="half_adder_tb.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="half_adder_tb.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="half_adder_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="half_adder_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1619440617" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1619440617">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1619498590" xil_pn:in_ck="-5124931560482163334" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1619498590">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CL_tb.vhd"/>
+      <outfile xil_pn:name="CS_tb.vhd"/>
+      <outfile xil_pn:name="CarryLookahead.vhd"/>
+      <outfile xil_pn:name="CarrySelect.vhd"/>
+      <outfile xil_pn:name="FA.vhd"/>
+      <outfile xil_pn:name="FA_1.vhd"/>
+      <outfile xil_pn:name="FA_tb.vhd"/>
+      <outfile xil_pn:name="HA.vhd"/>
+      <outfile xil_pn:name="HA_tb.vhd"/>
+      <outfile xil_pn:name="Mux2to1.vhd"/>
+      <outfile xil_pn:name="Ripple_tb.vhd"/>
+      <outfile xil_pn:name="ripple4bit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1619499581" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-5316247572862748324" xil_pn:start_ts="1619499581">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1619499581" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3019601713844703878" xil_pn:start_ts="1619499581">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1619440617" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-27917580927756230" xil_pn:start_ts="1619440617">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1619498603" xil_pn:in_ck="-5124931560482163334" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1619498603">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CL_tb.vhd"/>
+      <outfile xil_pn:name="CS_tb.vhd"/>
+      <outfile xil_pn:name="CarryLookahead.vhd"/>
+      <outfile xil_pn:name="CarrySelect.vhd"/>
+      <outfile xil_pn:name="FA.vhd"/>
+      <outfile xil_pn:name="FA_1.vhd"/>
+      <outfile xil_pn:name="FA_tb.vhd"/>
+      <outfile xil_pn:name="HA.vhd"/>
+      <outfile xil_pn:name="HA_tb.vhd"/>
+      <outfile xil_pn:name="Mux2to1.vhd"/>
+      <outfile xil_pn:name="Ripple_tb.vhd"/>
+      <outfile xil_pn:name="ripple4bit.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1619499585" xil_pn:in_ck="-5124931560482163334" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="1783735628843689246" xil_pn:start_ts="1619499581">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Tb_Carry_Look_Ahead_beh.prj"/>
+      <outfile xil_pn:name="Tb_Carry_Look_Ahead_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1619499586" xil_pn:in_ck="8539926616867547070" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-2029451392752270015" xil_pn:start_ts="1619499585">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Tb_Carry_Look_Ahead_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>
